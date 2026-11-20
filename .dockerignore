@@ -1,0 +1,15 @@
+.git
+.venv
+venv
+ENV
+__pycache__
+*.py[cod]
+.ipynb_checkpoints
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+htmlcov
+archive
+*.ipynb
+Screenshot*.png
